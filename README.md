@@ -2,7 +2,7 @@
 <h3 align="center">Software developer</h3>
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;Curious+learner&color=cyan&center=true" />
-
+</div>
 - 🔭 I’m currently working on **MERN, MOBILE DEVELOPMENT**
 
 - 🌱 I’m currently learning **FLUTTER, .NET**
