@@ -5,7 +5,7 @@
 </div>
 - 🔭 I’m currently working on **MERN, MOBILE DEVELOPMENT**
 
-- 🌱 I’m currently learning **FLUTTER, .NET**
+- 🌱 I’m currently learning **FLUTTER **
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/7276533235407290270](https://www.blogger.com/blog/posts/7276533235407290270)
 
