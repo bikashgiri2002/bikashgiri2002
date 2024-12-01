@@ -4,17 +4,18 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;Curious+learner&color=cyan&center=true" />
 </div>
 <div>
-- 🖥️ Currenly working on **MERN, MOBILE DEVELOPMENT**
+	# basic details
+ - 🖥️ Currenly working on **MERN, MOBILE DEVELOPMENT**
  
-- 🌱 I’m currently learning **FLUTTER**
+ - 🌱 I’m currently learning **FLUTTER**
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/7276533235407290270](https://www.blogger.com/blog/posts/7276533235407290270)
+ - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/7276533235407290270](https://www.blogger.com/blog/posts/7276533235407290270)
 
-- 💬 Ask me about **React, C, JavaScript**
+ - 💬 Ask me about **React, C, JavaScript**
 
-- 📫 How to reach me **giribikashkumar097@gmail.com**
+ - 📫 How to reach me **giribikashkumar097@gmail.com**
 
-- ⚡ Fun fact **I Never Stop Learning New Thing**
+ - ⚡ Fun fact **I Never Stop Learning New Thing**
 </div>
 
 <h3 align="left">Connect with me:</h3>
