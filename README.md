@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/7276533235407290270](https://www.blogger.com/blog/posts/7276533235407290270)
 
-- 💬 Ask me about **REACT, C, JAVA**
+- 💬 Ask me about **React, C, JavaScript**
 
 - 📫 How to reach me **giribikashkumar097@gmail.com**
 
