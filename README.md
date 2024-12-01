@@ -9,7 +9,7 @@
  
  - 🌱 I’m currently learning **FLUTTER**
 
- - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/7276533235407290270](https://www.blogger.com/blog/posts/7276533235407290270)
+ - 📝 I regularly write articles on [https://leetcodebybikash.blogspot.com/]
 
  - 💬 Ask me about **React, C, JavaScript**
 
