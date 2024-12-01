@@ -4,7 +4,7 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;Curious+learner&color=cyan&center=true" />
 </div>
 <div>
-<h2> Basic Details </h2>
+ 
  - 🖥️ Currenly working on **MERN, MOBILE DEVELOPMENT**
  
  - 🌱 I’m currently learning **FLUTTER**
