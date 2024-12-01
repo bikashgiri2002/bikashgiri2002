@@ -5,7 +5,7 @@
 </div>
 <div>
  
- - 🖥️ Currenly working on **MERN, MOBILE DEVELOPMENT**
+ - 🖥️ Currently working on **MERN, MOBILE DEVELOPMENT**
  
  - 🌱 I’m currently learning **FLUTTER**
 
