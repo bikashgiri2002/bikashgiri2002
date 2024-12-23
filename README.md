@@ -7,7 +7,7 @@
  
  - 🖥️ Currently working on **MERN, MOBILE DEVELOPMENT**
  
- - 🌱 I’m currently learning **FLUTTER**
+ - 🌱 I’m currently learning **Backend**
 
  - 📝 I regularly write articles on https://leetcodebybikash.blogspot.com/
 
