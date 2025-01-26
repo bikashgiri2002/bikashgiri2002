@@ -11,7 +11,7 @@
 
  - 📝 I regularly write articles on https://leetcodebybikash.blogspot.com/
 
- - 💬 Ask me about **React, C, JavaScript**
+ - 💬 Ask me about **React, C, JavaScript, Python**
 
  - 📫 How to reach me **giribikashkumar097@gmail.com**
 
