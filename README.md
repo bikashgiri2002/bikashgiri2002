@@ -5,9 +5,9 @@
 </div>
 <div>
  
- - 🖥️ Currently working on **MERN, MOBILE DEVELOPMENT**
+ - 🖥️ Currently working on **MERN**
  
- - 🌱 I’m currently learning **Backend**
+ - 🌱 I’m currently learning **AI/ML**
 
  - 📝 I regularly write articles on https://leetcodebybikash.blogspot.com/
 
