@@ -4,17 +4,17 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;Curious+learner&color=cyan&center=true" />
 </div>
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working on **Full Stack with Node.js**
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **MERN Stack Project**
+- 👯 I’m looking to collaborate on **Full Stack Project**
 
-- 🤝 I’m looking for help with **AI/ ML**
+- 🤝 I’m looking for help with **AI/ML**
 
 - 📝 I regularly write articles on [https://leetcodebybikash.blogspot.com/](https://leetcodebybikash.blogspot.com/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Node.js**
 
 - 📫 How to reach me **giribikashkumar097@gmail.com**
 
