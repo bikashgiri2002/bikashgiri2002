@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **giribikashkumar097@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/bikashgiri2002/BIKASH_DOCUMENT/blob/main/Bikash_Kumar_Giri_CV.pdf](https://github.com/bikashgiri2002/BIKASH_DOCUMENT/blob/main/Bikash_Kumar_Giri_CV.pdf)
+- 📄 Know about my experiences [My CV](https://github.com/bikashgiri2002/my_profile)
 
 - ⚡ Fun fact **Turning caffeine into code and ideas into innovation.**
 
